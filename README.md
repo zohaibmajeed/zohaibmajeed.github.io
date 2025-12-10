@@ -156,20 +156,6 @@ I design beautiful UIs, organize clean backend architecture, and create AI-power
 **Dyom** – eCommerce website  
 **AI Chatbot** – Upload your data → get intelligent answers  
 
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zohaibmajeed&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibmajeed&layout=compact&theme=tokyonight" height="180" />
-</div>
-
----
-
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zohaibmajeed&theme=onedark&no-frame=true&margin-w=10" />
 
 ---
 
